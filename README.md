@@ -1,2 +1,2 @@
 # About Me
- Insight on Lorena
+ Hello. my name is Lorena Soldevilla. I am in grade 12.
