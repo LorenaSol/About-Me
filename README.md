@@ -8,7 +8,8 @@ Hello! I am Lorena. I am 17 year old student at Brockton High School. After I gr
 
 
  # Skills
-
+ * Procrastinator
+ * Efficiency
 
 
  # Education
@@ -19,7 +20,7 @@ I am senior at Brockton High School. I would like to go to college after I gradu
  * Painting
  * Dance
  * Photography
- 
+
 
  # Family
  My parents, Ismael and Maria, are both from Peru. I was born here. I am the oldest of 3. My sisters are Allison and Kristyn. Allison is 14 years old and Kristyn is 12 years old. I have little yorkie and her name is Bella.
