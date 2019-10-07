@@ -21,6 +21,11 @@ I am senior at Brockton High School. I would like to go to college after I gradu
  * Dance
  * Photography
 
+ # Music
+ I basically listen to every genre of music except for country and screamo. Some of my favorite artists are:
+ * boy pablo
+ *
 
- # Family
+
+# Family
  My parents, Ismael and Maria, are both from Peru. I was born here. I am the oldest of 3. My sisters are Allison and Kristyn. Allison is 14 years old and Kristyn is 12 years old. I have little yorkie and her name is Bella.
