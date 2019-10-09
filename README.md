@@ -4,7 +4,7 @@
  * Year of Graduation: 2020
 
  # Summary
- Hello! I am Lorena. I am 17 year old student at Brockton High School. After I graduate high school, I wil go to college. I would like to study medicine. Since I 
+ Hello! I am Lorena. I am 17 year old student at Brockton High School. After I graduate high school, I wil go to college. I would like to help people, so I want to follow the medical path. On the other hand, I enjoy the arts. I want to travel. I've been to Peru and I miss it.
 
 
  # Skills
@@ -32,6 +32,6 @@
  * Coraline
  * Earth to Echo
  *
- 
+
 # Family
  My parents, Ismael and Maria, are both from Peru. I was born here. I am the oldest of 3. My sisters are Allison and Kristyn. Allison is 14 years old and Kristyn is 12 years old. I have little yorkie and her name is Bella.
