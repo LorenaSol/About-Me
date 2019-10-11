@@ -5,12 +5,14 @@
 
  # Summary
  Hello! I am Lorena. I am 17 year old student at Brockton High School. After I graduate high school, I wil go to college. I would like to help people, so I want to follow the medical path. On the other hand, I enjoy the arts. I want to travel. I've been to Peru and I miss it.
+
  ![peru](./peru.jfif)
  # Skills
  * Spanish (write and speak)
 
  # Education
  I am senior at Brockton High School. I would like to go to college after I graduate. I want to major in math and biology. I would like to pursue a career in the medical field, but I am also interested in math.
+ 
  ![bhs](./bhs.jfif)
 
  # Hobbies
